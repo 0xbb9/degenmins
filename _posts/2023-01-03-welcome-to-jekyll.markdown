@@ -5,8 +5,10 @@ date:   2023-01-03 08:40:22 +0000
 categories: degenmins
 ---
 
-Welcome to Degen Minutes. 9 links each day to keep you updated on the latest crypto trends.
+Welcome to Degen Minutes. 5 links each day to keep you updated on the trending topics on Crypto Twitter.
 
-1. DefiLlama launched a DEX aggregator. They are not taking any fees. Works with 22 chains and has a private mode to protect your IP. [Link](https://twitter.com/defillama/status/1609989799653285888)
-
-2. 
+1. Bitcoin first launched on January 3, 2009, with the creation of the genesis block. Today is the 14th anniversary. [Link](https://decrypt.co/56934/the-bitcoin-genesis-block-how-it-all-started)
+2. DefiLlama launched a DEX aggregator. They are not taking any fees. Works with 22 chains and has a private mode to protect your IP. [Link](https://twitter.com/defillama/status/1609989799653285888)
+3. 🚨Cameron co-founder of Gemini wrote an open letter to Barry CEO of DCG. You can see Barry's rebutt [here](https://twitter.com/BarrySilbert/status/1609926715454771200) and when you read about it, it feels like a similar story is playing out. If DCG goes south, [likely to have some sell pressure](https://twitter.com/karl_0x/status/1609931432742338563). DCDG owns Grayscale, Genesis and various others. 
+4. If you like trading Volatility and you understand VIX -> which is a real-time index that represents the market’s expectations for the relative strength of near-term price changes of the S&P 500 Index (SPX). You will be interested in CVI -> Crypto Volatility Index. [Link](https://twitter.com/korpi87/status/1609560167942868993)
+5. $LDO is a trending topic these few days. Especially after the tweet from [Degen Spartan](https://twitter.com/DegenSpartan/status/1609397460245549058), it has gone up about 20%. $LDO certainly has an advantage especially of the [massive size of staked eth that it is holding](https://dune.com/k06a/lido-finance). And there are also utilities for stETH like using it in [Curve, Balancer to earn extra yield](https://lido.fi/lido-ecosystem). However the challenge is that it has a few VCs rounds and currently [Paradigm round is unlocking 273k $LDO EVERY DAY x 6 months from a VC price of $0.73](https://twitter.com/crypto_condom/status/1609646357198815232). 
