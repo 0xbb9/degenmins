@@ -21,8 +21,8 @@
 title: Degen Minutes
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  5 Links each day to help you better understand Crypto Twitter.
-  None of this is financial advice. Do not trust your money with random account on the internet.
+  7 Links each day to help you better understand Crypto Twitter.
+  None of this is financial advice. Trust but Verify.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: "degenmins"
