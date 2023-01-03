@@ -18,16 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: degen diary
-email: degenhd@proton.me
+title: Degen Minutes
+email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Sharing the crypto and defi news I read on twitter and logging down some of my thoughts. 9 Links each day. None of this is financial advice. Do not trust your money with random account on the internet.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: "degenbb9"
-github_username:  "0xbb9"
+github_username:  
 
 # Build settings
 theme: minima
